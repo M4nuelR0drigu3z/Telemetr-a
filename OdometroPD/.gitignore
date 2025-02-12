@@ -1,0 +1,4 @@
+.env
+HistoricoKmSamsara.xlsx
+__pycache__/
+*.log
